@@ -213,4 +213,4 @@ WowMatrix is provided as a complete free version with all features and updates i
 Start your adventure in World of Warcraft today with WowMatrix! Download now and unlock a world of possibilities!
 
 ---
-**Last updated:** 2026-10-01 20:01:26 UTC
+**Last updated:** 2026-10-02 00:17:22 UTC
